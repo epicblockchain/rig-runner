@@ -21,7 +21,7 @@
 
 ## Get RigRunner
 
-Get the latest RigRunner software [**here**](https://github.com/epicblockchain/rig-runner/releases/)
+Get the latest **RigRunner** software [**here**](https://github.com/epicblockchain/rig-runner/releases/)
 
 ## Get UMC OS
 
