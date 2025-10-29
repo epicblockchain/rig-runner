@@ -4,7 +4,7 @@
 
 **RigRunner** is a tool designed to make installing **UMC OS** firmware on your **Antminer** mining rigs fast, easy, and reliable. It guides you through the deployment process so you can get your rigs up and running consistently across multiple devices with minimal effort. RigRunner is production-ready and suitable for both large scale, professional mining and hobbyist setups. It is actively maintained, and updates focus on adding support for additional Antminer models and improving the installation workflow.
 
-
+Get the latest **RigRunner** software [**here**](https://github.com/epicblockchain/rig-runner/releases/)
 
 ---
 
@@ -19,9 +19,6 @@
 
 ---
 
-## Get RigRunner
-
-Get the latest **RigRunner** software [**here**](https://github.com/epicblockchain/rig-runner/releases/)
 
 ## Get UMC OS
 
