@@ -32,4 +32,8 @@ Get **UMC OS** firmware [**here**](https://github.com/epicblockchain/umcos-antmi
 
 See supported mining rigs [**here**](https://github.com/epicblockchain/umcos-antminer)
 
+## Installation Demo
+
+![Demo GIF](./assets/how_to_install_UMC_OS.gif)
+
 
