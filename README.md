@@ -6,9 +6,7 @@
 
 Get the latest **RigRunner** software here:
 
-[![Download RigRunner](https://img.shields.io/badge/Download-black?style=for-the-badge&labelColor=000000&message=RigRunner&color=0078D7)](https://github.com/epicblockchain/rig-runner/releases/)
-
-
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/epicblockchain/rig-runner/releases/)
 
 ---
 
@@ -26,7 +24,10 @@ Get the latest **RigRunner** software here:
 
 ## Get UMC OS
 
-Get **UMC OS** firmware [**here**](https://github.com/epicblockchain/umcos-antminer/releases)
+Get **UMC OS** firmware **here**:
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/epicblockchain/umcos-antminer/releases)
+
 
 ## Compatibility
 
