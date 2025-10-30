@@ -35,6 +35,10 @@ See supported mining rigs [**here**](https://github.com/epicblockchain/umcos-ant
 
 ## Demo
 
-![Demo GIF](./assets/how_to_install_UMC_OS.gif)
+<video autoplay loop muted playsinline width="720">
+  <source src="https://github.com/epicblockchain/rig-runner/raw/main/assets/how_to_install_UMC_OS.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
