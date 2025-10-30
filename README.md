@@ -24,7 +24,7 @@ Get the latest **RigRunner** software here:
 
 ## Get UMC OS
 
-Get **UMC OS** firmware **here**:
+Get **UMC OS** firmware here:
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/epicblockchain/umcos-antminer/releases)
 
