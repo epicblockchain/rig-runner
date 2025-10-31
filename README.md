@@ -35,7 +35,7 @@ See supported mining rigs [**here**](https://github.com/epicblockchain/umcos-ant
 
 ## Demo
 
-![Demo GIF](./assets/how_to_install_UMC_OS.gif)
+![Demo GIF](./assets/how_to_install_umc_os.gif)
 
 
 
