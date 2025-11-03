@@ -12,6 +12,8 @@ Get the latest **RigRunner** software here:
 
 ## How it works
 
+[UMC OS Install Guide](./assets/RigRunner_Build_Guide_V4_UMC_OS_Installer-1.pdf)
+
 - **Guided Install:** RigRunner guides you through the install process.  
 - **Discovery:** Helps identify compatible Antminer devices on the local network.  
 - **Compatibility:** Supports a wide range of Antminer models and ensures proper installation of **UMC OS** on supported devices.  
