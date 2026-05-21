@@ -23,13 +23,11 @@ Get the latest **RigRunner** software here:
 
 ---
 
-
 ## Get UMC OS
 
 Get **UMC OS** firmware here:
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/epicblockchain/umcos-antminer/releases)
-
 
 ## Compatibility
 
@@ -39,5 +37,48 @@ See supported mining rigs [**here**](https://github.com/epicblockchain/umcos-ant
 
 ![Demo GIF](./assets/how_to_install_umc_os.gif)
 
+## CLI Usage (Advanced Users)
 
+### GUI Mode
 
+Run the RigRunner application without any arguments to launch the graphical interface:
+
+```sh
+./rig-runner
+```
+
+### CLI Mode
+
+When you provide arguments, it automatically runs in CLI mode:
+
+```sh
+# Show help
+./rig-runner --help
+
+# Scan for devices
+./rig-runner --ranges 192.168.1.0/24 scan
+
+# Install firmware from a local file
+./rig-runner --ranges 192.168.1.0/24 install -f firmware.zip
+
+# Install firmware from GitHub release
+./rig-runner --ranges 192.168.1.0/24 install --version latest
+
+# List available firmware versions
+./rig-runner list-versions
+
+# Uninstall firmware
+./rig-runner --ranges 192.168.1.0/24 uninstall -p password
+```
+
+#### CLI Options
+
+- `--ranges <IP/CIDR>`: IPv4 CIDR ranges to scan (comma-separated)
+- `--threads <N>`: Number of threads to use (default: 512)
+- `--timeout <MS>`: Timeout in milliseconds (default: 2000)
+- `--retries <N>`: How many times to retry connection (default: 10)
+- `--max-connections <N>`: Maximum concurrent connections (default: 25)
+- `-p, --umcos-password <PASSWORD>`: Password for umcOS miners
+- `-l, --log-folder <PATH>`: Log file path
+- `-v`: Verbose output (use `-vv` for trace output)
+- `-q`: Quiet mode (use `-qq` for errors only)
