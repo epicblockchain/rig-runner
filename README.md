@@ -6,7 +6,13 @@
 
 Get the latest **RigRunner** software here:
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/epicblockchain/rig-runner/releases/)
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <a href="https://github.com/epicblockchain/rig-runner/releases/"><img src="https://toolbox.marketingtools.apple.com/api/assets/featured-content/apps/badges/badge-2/en-us.svg" alt="Download on the Mac App Store" height="30"></a>&nbsp;&nbsp;
+  <a href="https://github.com/epicblockchain/rig-runner/releases"><img src="https://img.shields.io/badge/GitHub-Releases?style=for-the-badge&amp;color=grey&amp;logo=github&amp;logoColor=white" alt="Download from GitHub Releases" height="30"></a>&nbsp;&nbsp;
+  <a href="https://github.com/epicblockchain/rig-runner/releases/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDMuNSAxMC41IDJ2OUgxWm0xMSA3LjVWMS44TDIzIDB2MTFabS0xMSAyaDkuNXY5TDEgMjAuNVptMTEgMGgxMXYxMUwxMiAyMi4yWiIvPjwvc3ZnPg%3D%3D" alt="Windows" height="30"></a>
+</p>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
