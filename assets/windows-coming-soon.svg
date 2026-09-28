@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161" height="40" viewBox="0 0 161 40" role="img" aria-labelledby="title">
+  <title id="title">Windows — Coming soon</title>
+  <rect width="161" height="40" fill="#0078d6" />
+  <g transform="translate(13 10) scale(.85)" fill="#fff">
+    <path d="M1 3.5 10.5 2v9H1Zm11 7.5V1.8L23 0v11ZM1 13h9.5v9L1 20.5Zm11 0h11v11L12 22.2Z" />
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana, Geneva, sans-serif">
+    <text x="101" y="19" font-size="13" font-weight="700" letter-spacing="1.4">WINDOWS</text>
+    <text x="101" y="31" font-size="9">Coming soon</text>
+  </g>
+</svg>
