@@ -1,31 +1,44 @@
-# RigRunner
-
-![Rig Runner Banner](./assets/rigrunner.png)
-
-**RigRunner** is a tool designed to make installing **UMC OS** firmware on your **Antminer** mining rigs fast, easy, and reliable. It guides you through the deployment process so you can get your rigs up and running consistently across multiple devices with minimal effort. RigRunner is production-ready and suitable for both large scale, professional mining and hobbyist setups. It is actively maintained, and updates focus on adding support for additional Antminer models and improving the installation workflow.
-
-Get the latest **RigRunner** software here:
-
 <!-- markdownlint-disable MD033 -->
+<h1>RigRunner</h1>
 <p align="center">
-  <a href="https://apps.apple.com/cn/app/rigrunner/id6813109570"><img src="https://toolbox.marketingtools.apple.com/api/assets/featured-content/apps/badges/badge-2/en-us.svg" alt="Download on the Mac App Store" height="30"></a>&nbsp;&nbsp;
-  <a href="https://github.com/epicblockchain/rig-runner/releases"><img src="https://img.shields.io/badge/GitHub-Releases?style=for-the-badge&amp;color=grey&amp;logo=github&amp;logoColor=white" alt="Download from GitHub Releases" height="30"></a>&nbsp;&nbsp;
-  <!-- <a href="https://github.com/epicblockchain/rig-runner/releases/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDMuNSAxMC41IDJ2OUgxWm0xMSA3LjVWMS44TDIzIDB2MTFabS0xMSAyaDkuNXY5TDEgMjAuNVptMTEgMGgxMXYxMUwxMiAyMi4yWiIvPjwvc3ZnPg%3D%3D" alt="Windows" height="30"></a> -->
+  <a href="https://apps.apple.com/app/rigrunner/id6813109570"
+    ><img
+      src="https://toolbox.marketingtools.apple.com/api/assets/featured-content/apps/badges/badge-2/en-us.svg"
+      alt="Download on the Mac App Store"
+      width="120"
+      height="40"
+  /></a>
+  &emsp;
+  <picture>
+    <img src="./assets/windows-coming-soon.svg" alt="Windows (coming soon)" width="161" height="40" />
+  </picture>
+  &emsp;
+  <a href="https://github.com/epicblockchain/rig-runner/releases/latest"
+    ><img
+      src="https://img.shields.io/badge/%E2%AC%87%20Download-GitHub%20Releases?style=for-the-badge&amp;color=555555"
+      alt="Download from GitHub Releases"
+      width="168"
+      height="40"
+  /></a>
 </p>
-<!-- markdownlint-enable MD033 -->
+<img
+  src="./assets/rigrunner-intro.svg"
+  alt="RigRunner is a tool designed to make installing UMC OS firmware on your Antminer mining rigs fast, easy, and reliable. It guides you through the deployment process so you can get your rigs up and running consistently across multiple devices with minimal effort. RigRunner is production-ready and suitable for both large scale, professional mining and hobbyist setups. It is actively maintained, and updates focus on adding support for additional Antminer models and improving the installation workflow."
+  width="900"
+/>
 
----
+
 
 ## How it works
 
 [UMC OS Install Guide](./assets/RigRunner_Build_Guide_V4_UMC_OS_Installer-1.pdf)
 
-- **Guided Install:** RigRunner guides you through the install process.  
-- **Discovery:** Helps identify compatible Antminer devices on the local network.  
-- **Compatibility:** Supports a wide range of Antminer models and ensures proper installation of **UMC OS** on supported devices.  
+- **Guided Install:** RigRunner guides you through the install process.
+- **Discovery:** Helps identify compatible Antminer devices on the local network.
+- **Compatibility:** Supports a wide range of Antminer models and ensures proper installation of **UMC OS** on supported devices.
 - **Efficiency:** Install **UMC OS** firmware across multiple rigs and have them up and mining in just minutes.
 - **Cross-platform support:** RigRunner works on Windows, macOS, Debian, and Red Hat systems.
-- **Uninstallation support:** Allows you to revert rigs back to their stock firmware in their original state.  
+- **Uninstallation support:** Allows you to revert rigs back to their stock firmware in their original state.
 
 ---
 
