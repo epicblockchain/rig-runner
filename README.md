@@ -54,7 +54,7 @@ See supported mining rigs [**here**](https://github.com/epicblockchain/umcos-ant
 
 ## Demo
 
-![Demo GIF](./assets/how_to_install_umc_os.gif)
+![RigRunner demo](./assets/0.18.1_AppPreview.gif)
 
 ## CLI Usage (Advanced Users)
 
