@@ -9,9 +9,9 @@
       height="40"
   /></a>
   &emsp;
-  <picture>
-    <img src="./assets/windows-coming-soon.svg" alt="Windows (coming soon)" width="161" height="40" />
-  </picture>
+  <a href="https://apps.microsoft.com/detail/xp8m8xvm05fcrw?cid=PCCongratsBnr&amp;hl=en-US&amp;gl=CA">
+    <img src="./assets/microsoft-store.svg" alt="Download from the Microsoft Store" width="161" height="40" />
+  </a>
   &emsp;
   <a href="https://github.com/epicblockchain/rig-runner/releases/latest"
     ><img
